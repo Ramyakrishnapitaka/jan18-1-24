@@ -1,0 +1,33 @@
+#page{
+    text-align: right;
+}
+#dark{
+    height: 2px;
+    border-width: 0;
+    color: black;
+    background-color: black;
+    width: 50%;
+}
+#light{
+    width: 50%;
+    height: 1px;
+    border-width: 0;
+    color: black;
+    background-color: black;
+    
+    
+}
+#dark1{
+    height: 3px;
+    border-width: 0;
+    color: black;
+    background-color: black;
+    
+}
+body{
+    margin:5px;
+    padding: 10px;
+    
+}
+p{text-align: justify;
+}
